@@ -10,3 +10,5 @@ Proyecto desarrollado para la práctica de entornos virtuales, Git y empaquetami
 ## Autor y Curso
 - **Autor:** Fabrizzio Chanco
 - **Curso:** Tecnologías Emergentes - ISO46B
+
+Se obtienen datos climáticos de Huancayo usando la API de Open-Meteo, se procesan y analizan con Pandas para obtener estadísticas por categoría climática, y se exportan los resultados en CSV
