@@ -1,5 +1,5 @@
 import numpy as np 
-from tensorflow import keras 
+import keras
  # 1. Cargar el modelo entrenado en el Paso 3.4 
 modelo = keras.models.load_model("modelo_lluvia.keras") 
  # 2. Definir observaciones nuevas: [temp_max, temp_min, amplitud_termica] 
